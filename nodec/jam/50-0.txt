@@ -1,0 +1,24 @@
+**
+** MATERIALS
+**
+*Material, name=con
+*Elastic
+30094., 0.2
+*Concrete Damaged Plasticity
+36.,    0.1,   1.16, 0.6667,  1e-06
+*Concrete Compression Hardening
+  23.0316,          0.
+  25.5147, 0.000127275
+ 0.970599,     0.22552
+*Concrete Tension Stiffening, type=GFI
+ 3.587,5.
+*Material, name=steel
+*Elastic
+200000., 0.3
+*Plastic
+ 53.3476,          0.
+
+ 854.626,    0.493562
+**
+** INTERACTION PROPERTIES
+**

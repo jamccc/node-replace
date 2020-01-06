@@ -1,0 +1,1 @@
+'httpsss://ourjs.github.io/static/jam.png'
